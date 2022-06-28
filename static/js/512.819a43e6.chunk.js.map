@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/512.819a43e6.chunk.js","mappings":"iMAAe,SAASA,IACtB,OAAO","sources":["components/Nothihg/Nothing.js"],"sourcesContent":["export default function Nothing() {\n  return <h1>Nothing found</h1>;\n}\n"],"names":["Nothing"],"sourceRoot":""}
