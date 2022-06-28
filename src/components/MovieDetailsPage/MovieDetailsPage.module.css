@@ -1,0 +1,31 @@
+.back {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+    width: 100px;  
+    display: block;    
+}
+
+.filmCont {
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom: 1px solid black;
+}
+
+.thumb {
+    width: 400px;
+    margin-right: 10px;
+}
+
+.picture {
+    width: 100%;
+}
+
+.additional{
+    padding-left: 10px;
+        padding-right: 10px;
+        border-bottom: 1px solid black;
+}
