@@ -1,0 +1,8 @@
+.Item,
+.Title {
+  margin-bottom: 16px;
+}
+
+.Content {
+  color: var(--secondary-text-color);
+}

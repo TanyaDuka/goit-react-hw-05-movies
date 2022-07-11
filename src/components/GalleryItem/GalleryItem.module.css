@@ -1,0 +1,48 @@
+.arrowLinkBox {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  color: blueviolet;
+}
+
+.arrowLink {
+  margin-right: 10px;
+}
+.Container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 16px;
+}
+
+.Image {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+.Title,
+.Subitle {
+  margin-bottom: 16px;
+}
+
+.Overview {
+  color: var(--secondary-text-color);
+  font-weight: bold;
+}
+
+.Description {
+  color: var(--secondary-text-color);
+  font-weight: bold;
+}
+
+.Link {
+  color: var(--secondary-text-color);
+  font-weight: bold;
+  cursor: pointer;
+  transition: color 250ms ease-in-out;
+}
+
+.Link:hover {
+  color: var(--accent-color);
+}
